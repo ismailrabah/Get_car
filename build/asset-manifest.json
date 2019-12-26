@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Get_car/static/css/main.206c6f70.chunk.css",
+    "main.js": "/Get_car/static/js/main.dde9b92b.chunk.js",
+    "main.js.map": "/Get_car/static/js/main.dde9b92b.chunk.js.map",
+    "runtime-main.js": "/Get_car/static/js/runtime-main.82acccaa.js",
+    "runtime-main.js.map": "/Get_car/static/js/runtime-main.82acccaa.js.map",
+    "static/css/2.58bd2952.chunk.css": "/Get_car/static/css/2.58bd2952.chunk.css",
+    "static/js/2.5f37dc49.chunk.js": "/Get_car/static/js/2.5f37dc49.chunk.js",
+    "static/js/2.5f37dc49.chunk.js.map": "/Get_car/static/js/2.5f37dc49.chunk.js.map",
+    "index.html": "/Get_car/index.html",
+    "precache-manifest.90eefa9e36ad3256af32486db6e87584.js": "/Get_car/precache-manifest.90eefa9e36ad3256af32486db6e87584.js",
+    "service-worker.js": "/Get_car/service-worker.js",
+    "static/css/2.58bd2952.chunk.css.map": "/Get_car/static/css/2.58bd2952.chunk.css.map",
+    "static/css/main.206c6f70.chunk.css.map": "/Get_car/static/css/main.206c6f70.chunk.css.map",
+    "static/js/2.5f37dc49.chunk.js.LICENSE": "/Get_car/static/js/2.5f37dc49.chunk.js.LICENSE",
+    "static/media/Jumbotron.png": "/Get_car/static/media/Jumbotron.f66a0149.png",
+    "static/media/about_us.jpg": "/Get_car/static/media/about_us.528579d9.jpg",
+    "static/media/business_insider_logo.png": "/Get_car/static/media/business_insider_logo.3fb48e86.png",
+    "static/media/car1.png": "/Get_car/static/media/car1.9d330f52.png",
+    "static/media/car2.png": "/Get_car/static/media/car2.f66a0149.png",
+    "static/media/car3.png": "/Get_car/static/media/car3.8a2480b4.png",
+    "static/media/curbed_logo.png": "/Get_car/static/media/curbed_logo.41e5948f.png",
+    "static/media/logo192.png": "/Get_car/static/media/logo192.790ac652.png",
+    "static/media/metropolice_logo.png": "/Get_car/static/media/metropolice_logo.011fce22.png",
+    "static/media/sam.jpg": "/Get_car/static/media/sam.ac9082f6.jpg",
+    "static/media/service_zone.png": "/Get_car/static/media/service_zone.841ae283.png",
+    "static/media/urban_x_logo.png": "/Get_car/static/media/urban_x_logo.c5269f13.png",
+    "static/media/wired_logo.png": "/Get_car/static/media/wired_logo.20f64da4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82acccaa.js",
+    "static/css/2.58bd2952.chunk.css",
+    "static/js/2.5f37dc49.chunk.js",
+    "static/css/main.206c6f70.chunk.css",
+    "static/js/main.dde9b92b.chunk.js"
+  ]
+}
